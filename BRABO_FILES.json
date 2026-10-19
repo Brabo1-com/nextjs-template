@@ -19,16 +19,16 @@
       "size": 25515
     },
     "DEPENDENCIES.json": {
-      "sha256": "74937711a49947bcd6e004b83354f09a4ce36bab1cff6592fd7407574a945ee6",
-      "size": 153756
+      "sha256": "4b87a4943d090c1d95df7bb1c77e8b50ad8bb53f5f79ebe7782f032505dd38fa",
+      "size": 144502
     },
     "LICENSE": {
       "sha256": "2a51957781fe0eab3e1f156791e5f4b662c5a1428764b5a2c51cac797a13e29a",
       "size": 11345
     },
     "README.md": {
-      "sha256": "81f6e618c643ff7264af9b1ab0d7881d4563de815f08da853dd55f03f79e98c3",
-      "size": 1875
+      "sha256": "02045237cf2a8f28c9f6fb2f2ab02e1e8180ddb1e262d6fc28dde2b9ddaccfb0",
+      "size": 1874
     },
     "THIRD_PARTY_NOTICES.md": {
       "sha256": "5033b79f1b5fdeda311794a6b1a9ccffc40e7cd576f71004528d03e1efe7ebad",
@@ -47,12 +47,12 @@
       "size": 544
     },
     "package.json": {
-      "sha256": "c5e998dfa92ffe448d49444d93d8654392118c1144cd62f9cd85cf150a042e4c",
-      "size": 2658
+      "sha256": "bb1cda286990e816accbeb7d144374a5e56f302a695814b8ddfb613900c08d9b",
+      "size": 2716
     },
     "pnpm-lock.yaml": {
-      "sha256": "ce3648c90784c56c42d853b8e67ac9616d1c99ce9f2bb4565ba35483ca44ce40",
-      "size": 243068
+      "sha256": "7f43f13d92d504156135e80bb127b3853f4b79862503d471da4e57f842700235",
+      "size": 237547
     },
     "postcss.config.mjs": {
       "sha256": "ac31e2a95ef64fe27ceb4124e101675273107aae2e33bc490b01d919e7f03646",
@@ -343,12 +343,16 @@
       "size": 2528
     },
     "BRABO_CHANGES.md": {
-      "sha256": "b8da5b063b5e37b632ef2317829f956c5c25b2f1421ff66c7d7d2c1b9d363068",
-      "size": 3625
+      "sha256": "ae9fc1a7214b7b465b21ec1c72a829156b89ec50762c0e05694c9d9d7c853a46",
+      "size": 3881
     },
     "public/brabo-template-preview.svg": {
       "sha256": "7fa602ef5f522b8657c9dd37365c937e3b2a9f3c795abcda027c12009b01af8d",
       "size": 1208
+    },
+    "pnpm-workspace.yaml": {
+      "sha256": "91573d331dc2595158dfd54fb69ad1fad0d9eb07655ef14f627a7da4793e0198",
+      "size": 24
     }
   },
   "changedFromUpstream": [
