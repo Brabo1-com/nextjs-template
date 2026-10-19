@@ -2,7 +2,7 @@
 
 Modified by Brabo, 2026-10-19. Original Apache-2.0 license and Dyad Tech, Inc. notice are preserved in LICENSE; see THIRD_PARTY_NOTICES.md and BRABO_CHANGES.md.
 
-Use Node.js 22 and pnpm 10.11.0: `pnpm install --frozen-lockfile`, `pnpm dev`, `pnpm build`. The component tagger is vendored locally; no account setup is required. No credentials are needed for this blank template.
+Use Node.js 24 and pnpm 11.1.2: `pnpm install --frozen-lockfile`, `pnpm dev`, `pnpm build`. The component tagger is vendored locally; no account setup is required. No credentials are needed for this blank template.
 
 ## Original README
 
