@@ -343,16 +343,16 @@
       "size": 2528
     },
     "BRABO_CHANGES.md": {
-      "sha256": "ae9fc1a7214b7b465b21ec1c72a829156b89ec50762c0e05694c9d9d7c853a46",
-      "size": 3881
+      "sha256": "97445d42170607db15d3f55edd26383b340ec71dc70ee63d19dfef303b82f234",
+      "size": 4123
     },
     "public/brabo-template-preview.svg": {
       "sha256": "7fa602ef5f522b8657c9dd37365c937e3b2a9f3c795abcda027c12009b01af8d",
       "size": 1208
     },
     "pnpm-workspace.yaml": {
-      "sha256": "91573d331dc2595158dfd54fb69ad1fad0d9eb07655ef14f627a7da4793e0198",
-      "size": 24
+      "sha256": "fc28f8ab2d4529eaeaf144793633a2c54d62e0725cf2dc40fb6cfe326087277a",
+      "size": 60
     }
   },
   "changedFromUpstream": [
