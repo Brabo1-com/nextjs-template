@@ -1,0 +1,504 @@
+{
+  "repository": "dyad-sh/nextjs-template",
+  "commit": "02c389a61bca0db346791b2989d4473d6ee830d2",
+  "preparedAt": "2026-10-19",
+  "publicationAuthorized": true,
+  "upstreamFiles": [
+    {
+      "path": ".github/dependabot.yml",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/.github/dependabot.yml",
+      "gitBlob": "074b8b7592412911091415d1fe9596d06408d69b",
+      "sha256": "f679f8d43239ca1506159cb1ce3e04f8b29a18a8dd716a0c0f9823d5316f51ef",
+      "size": 538
+    },
+    {
+      "path": ".gitignore",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/.gitignore",
+      "gitBlob": "5ef6a520780202a1d6addd833d800ccb1ecac0bb",
+      "sha256": "207e265ff4901f9ad9f96d8ce08530e04f9fc600815472a66d0a446096d654cd",
+      "size": 480
+    },
+    {
+      "path": "AI_RULES.md",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/AI_RULES.md",
+      "gitBlob": "ef2225ec99898959abb1d6c94b6bee3dbefbb38e",
+      "sha256": "e1982da85eca329ec18d279bc7af4d9d98b96893eb02089821597e383662a804",
+      "size": 4352
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/LICENSE",
+      "gitBlob": "8d8dd57a2aadd59a8795a2646244684c2d47393e",
+      "sha256": "2a51957781fe0eab3e1f156791e5f4b662c5a1428764b5a2c51cac797a13e29a",
+      "size": 11345
+    },
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/README.md",
+      "gitBlob": "e215bc4ccf138bbc38ad58ad57e92135484b3c0f",
+      "sha256": "60b55ff7df79af72590f9524208e46642bc32bdc175cdad41349681c0e2f958f",
+      "size": 1450
+    },
+    {
+      "path": "components.json",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/components.json",
+      "gitBlob": "0e8b6332f3b5138d2a4832097dfe4ba47e7ee93d",
+      "sha256": "7607c74b654620b357eaa8f6959f0096df5f2afbd32f80b55ab5dda237dfa44d",
+      "size": 448
+    },
+    {
+      "path": "next.config.ts",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/next.config.ts",
+      "gitBlob": "a23e8550caca4ee681705096635ce65aea09a424",
+      "sha256": "fbc2892d3441b6280a34c94f79d981ff67ff658d20a2b0e3e35ff2b00168820b",
+      "size": 397
+    },
+    {
+      "path": "package.json",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/package.json",
+      "gitBlob": "06c10ada33a8b590d9df8d0ad6f31dc9e05ee4c0",
+      "sha256": "6708292074674f1856a423beef02f27eeae6fba3c18dffd16d7080b41784a7c1",
+      "size": 2203
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/pnpm-lock.yaml",
+      "gitBlob": "4b5e06ea2dacff1d46c64339c79f8f706d9bcf14",
+      "sha256": "8e89d3b0b3bd979516466dc89f811db338035661c0a35a50522765e5b3736748",
+      "size": 157799
+    },
+    {
+      "path": "postcss.config.mjs",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/postcss.config.mjs",
+      "gitBlob": "1a69fd2a450afc3bf47e08b22c149190df0ffdb4",
+      "sha256": "ac31e2a95ef64fe27ceb4124e101675273107aae2e33bc490b01d919e7f03646",
+      "size": 135
+    },
+    {
+      "path": "public/file.svg",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/public/file.svg",
+      "gitBlob": "004145cddf3f9db91b57b9cb596683c8eb420862",
+      "sha256": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4",
+      "size": 391
+    },
+    {
+      "path": "public/globe.svg",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/public/globe.svg",
+      "gitBlob": "567f17b0d7c7fb662c16d4357dd74830caf2dccb",
+      "sha256": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf",
+      "size": 1035
+    },
+    {
+      "path": "public/next.svg",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/public/next.svg",
+      "gitBlob": "5174b28c565c285e3e312ec5178be64fbeca8398",
+      "sha256": "55995dfad6ecb4945a1e856ddca03c5e16aa5bf13fd21b4df6a74ae79357bcfc",
+      "size": 1375
+    },
+    {
+      "path": "public/vercel.svg",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/public/vercel.svg",
+      "gitBlob": "77053960334e2e34dc584dea8019925c3b4ccca9",
+      "sha256": "f081337b2fee635b455b63275406a3e7f39d6a014e25ad90dab5a67e62a12ac4",
+      "size": 128
+    },
+    {
+      "path": "public/window.svg",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/public/window.svg",
+      "gitBlob": "b2b2a44f6ebc70c450043c05a002e7a93ba5d651",
+      "sha256": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1",
+      "size": 385
+    },
+    {
+      "path": "src/app/globals.css",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/app/globals.css",
+      "gitBlob": "394035e488ffc314df9bcde300d73fea55dc3e61",
+      "sha256": "cf791df45015bcad8fb9275b294241b81a73d2c710ec5a559b99f2c5afcbec5c",
+      "size": 2372
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/app/layout.tsx",
+      "gitBlob": "f7fa87eb875260ed98651bc419c8139b5119e554",
+      "sha256": "e65025ca7842d1b3ec1fcb41768f974cfbb9c5ca85abb2fb2ace6dfa4ac4f860",
+      "size": 689
+    },
+    {
+      "path": "src/app/page.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/app/page.tsx",
+      "gitBlob": "0d42a08fdedf669e5372c239cdb5d492d369cadd",
+      "sha256": "c13d3b29bd792f81f6825539cd756b5410763015ff57fec01a1c9b2a751fad4f",
+      "size": 428
+    },
+    {
+      "path": "src/components/made-with-dyad.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/made-with-dyad.tsx",
+      "gitBlob": "c0c2ef8d48e1e0acd4ea57eca6a2b4008bf6cc33",
+      "sha256": "b8d3ed0643f99b45851f98668e6ca4163004a878967abd283373393753c26666",
+      "size": 355
+    },
+    {
+      "path": "src/components/ui/accordion.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/accordion.tsx",
+      "gitBlob": "2f55a32f4d374342e6aa22e0fee985e9e60c1a3c",
+      "sha256": "00dd6eef660f08ce85154106fa0fa4d943ed699c5ca7b06bb08732978bcebb49",
+      "size": 2015
+    },
+    {
+      "path": "src/components/ui/alert-dialog.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/alert-dialog.tsx",
+      "gitBlob": "57760f2ee48c8b165fe72fee64542d3d90eec97d",
+      "sha256": "15fe92a406d2fdc4c42e385699e5f690d103d70603a9d05aa837fd03423a7925",
+      "size": 4433
+    },
+    {
+      "path": "src/components/ui/alert.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/alert.tsx",
+      "gitBlob": "5afd41d142c95c74069ebb5460117e74ead3b9df",
+      "sha256": "5950ac01377e7eedc94b00eb3fee678745e4cc1a72b5343867f0733d07db6660",
+      "size": 1598
+    },
+    {
+      "path": "src/components/ui/aspect-ratio.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/aspect-ratio.tsx",
+      "gitBlob": "d6a5226f5e9cc09a2bd1ccbce465524e41f04345",
+      "sha256": "589c299c27e2ad99c2e96c9a90e6ad49051cf99fc88f0c42a13465177379186f",
+      "size": 154
+    },
+    {
+      "path": "src/components/ui/avatar.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/avatar.tsx",
+      "gitBlob": "51e507ba9d08bcdbb1fb630498f1cbdf2bf50093",
+      "sha256": "e78b35ed76c67d8ff50603fbe0dfa4fe600097bd860d89e65beea3e16683dad8",
+      "size": 1419
+    },
+    {
+      "path": "src/components/ui/badge.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/badge.tsx",
+      "gitBlob": "e87d62bf1a2b2a0e1cf0b0dc94c2836525f40b67",
+      "sha256": "dab689d836ad3292b41e7f4986b4e68e5d45c6903e4aeaae8972a82d4aebec29",
+      "size": 1140
+    },
+    {
+      "path": "src/components/ui/breadcrumb.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/breadcrumb.tsx",
+      "gitBlob": "60e6c96f72f0350d08b47e4730cab8f3975dc853",
+      "sha256": "c3d3dcb0d82fc5e91d8830bac7fead905686fe876f1f42c3ed872bb0a6b6584e",
+      "size": 2712
+    },
+    {
+      "path": "src/components/ui/button.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/button.tsx",
+      "gitBlob": "65d4fcd9ca74240125c5f72cf84c873781141fea",
+      "sha256": "c2b999a96781e6c932632bd089095368e973bf5602e1b1a62156b7d2b43f1e84",
+      "size": 1902
+    },
+    {
+      "path": "src/components/ui/calendar.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/calendar.tsx",
+      "gitBlob": "115cff9035afcdff00685499a7ec18b37a393cff",
+      "sha256": "1eede7f47a35c11fa4ab2d3e059aaa7c6c11ac7d8982d0da43881e29d31f0bdd",
+      "size": 2949
+    },
+    {
+      "path": "src/components/ui/card.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/card.tsx",
+      "gitBlob": "cabfbfc59d955db9efc2049783cad4a71db55442",
+      "sha256": "525c4bb2c051987be64df0e92e1d90174912b219bf541e24ffbc4a3406de49e8",
+      "size": 1828
+    },
+    {
+      "path": "src/components/ui/carousel.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/carousel.tsx",
+      "gitBlob": "ec505d00d95ecdbbc1501d1bfa7020e51d6010a7",
+      "sha256": "69686986376cbc02a5f907b1ca8a7a759808c4e8df1200517c57ec749e8484cd",
+      "size": 6224
+    },
+    {
+      "path": "src/components/ui/chart.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/chart.tsx",
+      "gitBlob": "39fba6d6fc8509b968824b5076a8791c46650294",
+      "sha256": "e30219cedb35c55c2f9069f6470d60514c54c43fe0a3b641615275a2acd25f12",
+      "size": 10481
+    },
+    {
+      "path": "src/components/ui/checkbox.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/checkbox.tsx",
+      "gitBlob": "c6fdd071b5d4133824ae4d805a3034132830a1b2",
+      "sha256": "da3ac46877c697a12e04c8b84e18d408f54c48faf8ccef710231e4f676ddd35e",
+      "size": 1026
+    },
+    {
+      "path": "src/components/ui/collapsible.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/collapsible.tsx",
+      "gitBlob": "9fa48946afd1eb56bd932377fd888e3986304676",
+      "sha256": "f4cdd104de29928bfcd40b865c7d08eed9157a537fbb8b5e6d0921f02b63cc04",
+      "size": 329
+    },
+    {
+      "path": "src/components/ui/command.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/command.tsx",
+      "gitBlob": "2cecd9104b27be82d238aa2f1cbb351e05446af7",
+      "sha256": "5a57ebc119f2357b097098d22865d45de8fda623ee88fe98b99999838c13633b",
+      "size": 4887
+    },
+    {
+      "path": "src/components/ui/context-menu.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/context-menu.tsx",
+      "gitBlob": "1306dd2673ef1043e0fa68a5f7351451c5005f85",
+      "sha256": "dc50f646230af939330e709d1a4f0e6d887e5209ee191451df29ce6bc7ccfca3",
+      "size": 7420
+    },
+    {
+      "path": "src/components/ui/dialog.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/dialog.tsx",
+      "gitBlob": "1647513eced8f9e788c0e8b63c99654d3a542a9c",
+      "sha256": "fe70a91bb924ef3a40b7504e6847ef9a57aed3b503d2a7dbb7610e821ea40b6f",
+      "size": 3849
+    },
+    {
+      "path": "src/components/ui/drawer.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/drawer.tsx",
+      "gitBlob": "6a0ef53dde8991d3adeadd791cd262808aaf9ac0",
+      "sha256": "774316527ddc577fc54012a0c898ebcf7cf8f11152126e550828b53004a5b70c",
+      "size": 3021
+    },
+    {
+      "path": "src/components/ui/dropdown-menu.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/dropdown-menu.tsx",
+      "gitBlob": "5a20503b547ea0e4e467d63fe1ae78e4171afb52",
+      "sha256": "dc109123ecd59af01d07aa9f3a8e8a7085bd3f337388c5369799ab1ce6c2d45f",
+      "size": 7606
+    },
+    {
+      "path": "src/components/ui/form.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/form.tsx",
+      "gitBlob": "ad1ae028b1ba82279377c39ae9b62d2498eef830",
+      "sha256": "9027dc0d91f785b6fc0ef579d4d6c9423f8634be9fd05f83fc4d8dfdc006488b",
+      "size": 4132
+    },
+    {
+      "path": "src/components/ui/hover-card.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/hover-card.tsx",
+      "gitBlob": "74efa6bee7037d46ea6f1a08a89b68963660cca0",
+      "sha256": "dcb793b8b1202b1634d791a993acadca0cfc3043a93b98c91a627fbff794f384",
+      "size": 1251
+    },
+    {
+      "path": "src/components/ui/input-otp.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/input-otp.tsx",
+      "gitBlob": "eb2a1baea86131ee3101b11b6334a95f3f06dfdc",
+      "sha256": "dd43515f4d312bffc720bce06e88d59ccd70c8f6e7e70f4b79045c72fdfff1ac",
+      "size": 2157
+    },
+    {
+      "path": "src/components/ui/input.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/input.tsx",
+      "gitBlob": "69b64fb2455114c3eeda2d18741af0027b3c5e89",
+      "sha256": "6299a6a387dc55e528aec4342deaea0b83f1ea3a365c135a31a18ee55334f441",
+      "size": 768
+    },
+    {
+      "path": "src/components/ui/label.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/label.tsx",
+      "gitBlob": "534182176bf87f9308355514adc884d2b69750a5",
+      "sha256": "2eac8fbb04002c42b0fbc4062d20d131e421796eaf65c37d2049e29e42ecbc5a",
+      "size": 724
+    },
+    {
+      "path": "src/components/ui/menubar.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/menubar.tsx",
+      "gitBlob": "e364e4692389b005c258f537356cde246f42e71e",
+      "sha256": "9e6f0abc04c608d29568be5b3f495815c4d708b5fd5b1e5797a2fb41b6f6b376",
+      "size": 8622
+    },
+    {
+      "path": "src/components/ui/navigation-menu.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/navigation-menu.tsx",
+      "gitBlob": "056354bf824bf1f06e9dbceeacad512ce21b03d1",
+      "sha256": "a06d96a582ac207ffcd38445d773c05e841d646efb185b5e9b65f73e5bd388c7",
+      "size": 5124
+    },
+    {
+      "path": "src/components/ui/pagination.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/pagination.tsx",
+      "gitBlob": "d3311054cd07a90d130f7996c79b3fc0feeede39",
+      "sha256": "9506dbd19ddd0c2810d1c9668a3f01606e39d9bf33ddc43329523c03bf629012",
+      "size": 2751
+    },
+    {
+      "path": "src/components/ui/popover.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/popover.tsx",
+      "gitBlob": "70a28f6610b5e331769e14ca0f77072789899ff7",
+      "sha256": "69f74cdd76588a1249522ff8009e044eee6080ad8cf26cb08d7a5fc3281f0255",
+      "size": 1356
+    },
+    {
+      "path": "src/components/ui/progress.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/progress.tsx",
+      "gitBlob": "4fc3b473e6f51afa972f840fb0f4476f8663c256",
+      "sha256": "6b3b4b69a1cb361076174892e9a96e1a09020307616965ef89f2f7e2495b57a9",
+      "size": 792
+    },
+    {
+      "path": "src/components/ui/radio-group.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/radio-group.tsx",
+      "gitBlob": "0bdf6853fccc6ba250ce89d78a4f5b72b7347279",
+      "sha256": "30c8d8ea431d9480180d47689b5863fc89e649329aa102766db30a2af5fe4ae8",
+      "size": 1424
+    },
+    {
+      "path": "src/components/ui/resizable.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/resizable.tsx",
+      "gitBlob": "f4bc5586b67f45d3cc35f228e8bac2e4bc2cea16",
+      "sha256": "70d1e35a5fb0897af7063cdd841d8ed636e1c332ef7ea6469f0f175a5a93dddf",
+      "size": 1723
+    },
+    {
+      "path": "src/components/ui/scroll-area.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/scroll-area.tsx",
+      "gitBlob": "0b4a48d87fabda1c6e9612172abb56a78e26c14f",
+      "sha256": "edbaecbc4f5cb6e16ecb39d3678d81b26e1a968dfc273dbb77821de3c8626377",
+      "size": 1656
+    },
+    {
+      "path": "src/components/ui/select.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/select.tsx",
+      "gitBlob": "6e637f7dc67daa0b2ce4f440e4bbdb3f14ce3c03",
+      "sha256": "3d93ae07a8f3fe121ba60f4439e26bd7859f247eb8bfcafcf4b4a8a069888eec",
+      "size": 5745
+    },
+    {
+      "path": "src/components/ui/separator.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/separator.tsx",
+      "gitBlob": "12d81c4a853472948b6dd2e85eff99b5d12fe60b",
+      "sha256": "995c54f1c5c688f712a675fe35d55bcada2b31dba561dcc71553a1ad601e59ec",
+      "size": 770
+    },
+    {
+      "path": "src/components/ui/sheet.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/sheet.tsx",
+      "gitBlob": "272cb721eb48b7a5833ccd51f940a8830d85b64e",
+      "sha256": "363f8e06aa5b53c6475f445117f60fa9294be79e9e4f1f5bf70886800188124e",
+      "size": 4280
+    },
+    {
+      "path": "src/components/ui/sidebar.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/sidebar.tsx",
+      "gitBlob": "91592e6b82098cfac02c55ab58c0cd83306ddf44",
+      "sha256": "f428ec1034dddca0c785405cf03125e2a2e67df09cf5e41b616ae6c34fbb9fb6",
+      "size": 23581
+    },
+    {
+      "path": "src/components/ui/skeleton.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/skeleton.tsx",
+      "gitBlob": "d7e45f7bd315f86eabf32f2c9425223417920e60",
+      "sha256": "87608e7cc815ad3d88e0b9de6c402bb37b58ea1b38636cf69709da1baff6e334",
+      "size": 266
+    },
+    {
+      "path": "src/components/ui/slider.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/slider.tsx",
+      "gitBlob": "ab19d576f0013b65004f5f5f39e0bfad584a08fa",
+      "sha256": "16dad0a2c58fba2a38740ab9b15936f1f9a07d0e3aafccdce875b6bac31d79be",
+      "size": 1051
+    },
+    {
+      "path": "src/components/ui/sonner.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/sonner.tsx",
+      "gitBlob": "452f4d9f0dde88611113632c1d759d60155fe4d3",
+      "sha256": "771ab8637d27384c3ed030ba3be01a07b90c791c294eae06646250f8e81bc49e",
+      "size": 894
+    },
+    {
+      "path": "src/components/ui/switch.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/switch.tsx",
+      "gitBlob": "5f4117f0f242bc03d8372e6380389bb4bf88cb79",
+      "sha256": "ab2d009e0fa7366f47ae1a6e0ca35d0aac55c6264c5f61718e12366c196163b4",
+      "size": 1162
+    },
+    {
+      "path": "src/components/ui/table.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/table.tsx",
+      "gitBlob": "c0df655c0bf26af1148d038e1d013e884663b240",
+      "sha256": "a4a6972c2d47d465d7f02c1dc4a6cbfeda7a97e46479c1b0cebdaf26bf9b497a",
+      "size": 2859
+    },
+    {
+      "path": "src/components/ui/tabs.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/tabs.tsx",
+      "gitBlob": "0f4caebb1170ec24e5acab012544ccedb09b15a2",
+      "sha256": "d41aded0394298102614635e15d709369c6bdae8fe79b918b8341ef39407ee03",
+      "size": 1891
+    },
+    {
+      "path": "src/components/ui/textarea.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/textarea.tsx",
+      "gitBlob": "e56b0affd7e03bd8359092a81d81c606ab09972d",
+      "sha256": "ec7c92aaed80f6923a7caa4bfe4eead395b50a7001504fd7fbb0b9381804dae9",
+      "size": 649
+    },
+    {
+      "path": "src/components/ui/toggle-group.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/toggle-group.tsx",
+      "gitBlob": "1c876bbeecabe59b684719afe58e684f34cdecbf",
+      "sha256": "dba95ead40d163af6959198ded9853a2cc9282b2cb534980f99937a65edf4e2d",
+      "size": 1753
+    },
+    {
+      "path": "src/components/ui/toggle.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/toggle.tsx",
+      "gitBlob": "db35d78be41228d233334289527c20d09f5a4c54",
+      "sha256": "fb6061098e0368d9119905d6ed3c5ed2704b75078c4ad2c71b16b29f98a42ace",
+      "size": 1500
+    },
+    {
+      "path": "src/components/ui/tooltip.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/components/ui/tooltip.tsx",
+      "gitBlob": "28e19183f4d9dfbb73c82928190556b69575eb2b",
+      "sha256": "ce6afa34fb9dae51053a863b4c3f7c6e55f3da23b00149f31a8e4402bc963be0",
+      "size": 1267
+    },
+    {
+      "path": "src/hooks/use-mobile.tsx",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/hooks/use-mobile.tsx",
+      "gitBlob": "2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+      "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b",
+      "size": 565
+    },
+    {
+      "path": "src/lib/utils.ts",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/src/lib/utils.ts",
+      "gitBlob": "bd0c391ddd1088e9067844c48835bf4abcd61783",
+      "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+      "size": 166
+    },
+    {
+      "path": "tailwind.config.ts",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/tailwind.config.ts",
+      "gitBlob": "8358a3a676a8e822a1193472b884a35fd034afad",
+      "sha256": "30cba4e8194984071daa007f966fca6e1d7e0751936f55eba2d80bfca4d45fa1",
+      "size": 2540
+    },
+    {
+      "path": "tsconfig.json",
+      "url": "https://raw.githubusercontent.com/dyad-sh/nextjs-template/02c389a61bca0db346791b2989d4473d6ee830d2/tsconfig.json",
+      "gitBlob": "c1334095f876a408c10f2357faaced969ec090ab",
+      "sha256": "83d292a6930a317ea31ef48e220097d2ca10c6c505f41d5954795acef48ca3b9",
+      "size": 602
+    }
+  ],
+  "excludedBinaryAssets": [
+    {
+      "path": "src/app/favicon.ico",
+      "sha": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "size": 25931,
+      "mode": "100644"
+    }
+  ],
+  "publicationAuthorization": {
+    "date": "2026-10-19",
+    "scope": "Publish this prepared template to brabo1-com and validate desktop creation",
+    "destination": "https://github.com/brabo1-com/nextjs-template"
+  }
+}
