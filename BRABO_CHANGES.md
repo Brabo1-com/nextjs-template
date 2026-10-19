@@ -58,3 +58,5 @@ Content publication was explicitly authorized on 2026-10-19. Remaining: actual o
 ## Publication preparation — 2026-10-19
 
 Added `public/brabo-template-preview.svg`, an original Brabo card illustration under the included `LICENSES/Brabo-assets-MIT.txt`. Content publication to this template's brabo1-com repository is authorized. Local allowlist/hashes include the illustration and current authorization metadata. Upload and pinned public URLs remain unverified until a remote commit exists.
+
+Validação desktop T137: TypeScript ESLint parser/plugin fixados via overrides em 8.71.1 (publicado em 2026-10-05), pois 8.72.0 tinha menos de 24 horas. Mantida a proteção de idade mínima de pacotes do Brabo. Runtime Next 15.5.26, licenças e código funcional inalterados. Lock e inventário regenerados; lint/build aprovados.
