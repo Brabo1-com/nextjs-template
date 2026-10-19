@@ -70,12 +70,13 @@
     "@eslint/eslintrc": "3.3.1"
   },
   "license": "Apache-2.0",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@11.1.2",
   "braboModifications": "Prepared locally by Brabo on 2026-10-19; see BRABO_CHANGES.md. Original licenses retained.",
   "pnpm": {
     "overrides": {
       "@typescript-eslint/eslint-plugin": "8.71.1",
-      "@typescript-eslint/parser": "8.71.1"
+      "@typescript-eslint/parser": "8.71.1",
+      "@typescript-eslint/eslint-plugin>ignore": "7.0.12"
     }
   }
 }
