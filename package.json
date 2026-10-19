@@ -71,5 +71,11 @@
   },
   "license": "Apache-2.0",
   "packageManager": "pnpm@10.11.0",
-  "braboModifications": "Prepared locally by Brabo on 2026-10-19; see BRABO_CHANGES.md. Original licenses retained."
+  "braboModifications": "Prepared locally by Brabo on 2026-10-19; see BRABO_CHANGES.md. Original licenses retained.",
+  "pnpm": {
+    "overrides": {
+      "@typescript-eslint/eslint-plugin": "8.71.1",
+      "@typescript-eslint/parser": "8.71.1"
+    }
+  }
 }
