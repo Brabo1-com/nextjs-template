@@ -19,8 +19,8 @@
       "size": 25515
     },
     "DEPENDENCIES.json": {
-      "sha256": "729c610bd580cbbe463084d49e1b8657ebf0c68f28baf59f7baa9f59f4a321c2",
-      "size": 151419
+      "sha256": "74937711a49947bcd6e004b83354f09a4ce36bab1cff6592fd7407574a945ee6",
+      "size": 153756
     },
     "LICENSE": {
       "sha256": "2a51957781fe0eab3e1f156791e5f4b662c5a1428764b5a2c51cac797a13e29a",
@@ -47,12 +47,12 @@
       "size": 544
     },
     "package.json": {
-      "sha256": "a54b99eadb7c1a15d13ab569f49ab66eba8f004dc24843db35e6c0b14d9a6547",
-      "size": 2520
+      "sha256": "c5e998dfa92ffe448d49444d93d8654392118c1144cd62f9cd85cf150a042e4c",
+      "size": 2658
     },
     "pnpm-lock.yaml": {
-      "sha256": "7505fbc96de48a339af1ff1c421d5e21786404929cdcbdf5d6ba2282a708bb79",
-      "size": 242412
+      "sha256": "ce3648c90784c56c42d853b8e67ac9616d1c99ce9f2bb4565ba35483ca44ce40",
+      "size": 243068
     },
     "postcss.config.mjs": {
       "sha256": "ac31e2a95ef64fe27ceb4124e101675273107aae2e33bc490b01d919e7f03646",
@@ -343,8 +343,8 @@
       "size": 2528
     },
     "BRABO_CHANGES.md": {
-      "sha256": "1f77a93fb814428bbd7c0f76ed7d6f9c7fc3b6aadf17eb5f3869e1e8a13f3330",
-      "size": 3292
+      "sha256": "b8da5b063b5e37b632ef2317829f956c5c25b2f1421ff66c7d7d2c1b9d363068",
+      "size": 3625
     },
     "public/brabo-template-preview.svg": {
       "sha256": "7fa602ef5f522b8657c9dd37365c937e3b2a9f3c795abcda027c12009b01af8d",
